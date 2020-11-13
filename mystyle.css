@@ -1,5 +1,7 @@
 body {
-    background-image: url('https://i.redd.it/p26dj110djo41.jpg');
-    background-size: 80% 80%;
+    
+     background: url('https://i.redd.it/p26dj110djo41.jpg');
+    background-repeat: no-repeat;
+    background-size: auto;
   }
-     
+  
