@@ -3,5 +3,18 @@ body {
      background: url('https://i.imgur.com/IKpKiZB.png');
    
     background-size: auto;
+
+    
   }
+
+  .WebContainer{
+    width:100%;
+    height:auto;  
+  }
+      IMG.displayed {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      position: relative; top: 300px;
+     }
   
